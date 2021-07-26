@@ -1,6 +1,9 @@
 # Note Taker Express
 
   ![badge](https://img.shields.io/badge/license-npm-brightgreen) </br>
+  ![badge](https://img.shields.io/github/repo-size/derekBeckford/note-taker-express)
+![badge](https://img.shields.io/github/languages/top/derekBeckford/note-taker-express)
+![badge](https://img.shields.io/github/last-commit/derekBeckford/note-taker-express)
 
   ## Table of Contents 
 
