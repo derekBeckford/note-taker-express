@@ -24,6 +24,9 @@
 
 [Deployed Site](https://hidden-reaches-69870.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/82908627/126919074-b4d757ff-4a9a-498a-affc-889cac94d106.png)
+
+
   ## Installation 
   🔽
   
