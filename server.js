@@ -2,11 +2,8 @@ const PORT = process.env.PORT || 3001;
 const fs = require("fs");
 const path = require("path");
 const uniqid = require("uniqid");
-
 const express = require("express");
-const { ESRCH } = require("constants");
 const app = express();
-const savedNotes = require("./db/db.json");
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
